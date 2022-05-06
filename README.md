@@ -1,3 +1,2 @@
-# node-sample-api
-Sample API
+# node-sample
 "# Nodejs-Sample" 
