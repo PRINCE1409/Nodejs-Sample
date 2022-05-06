@@ -4,7 +4,7 @@
 
 application:
   author: celebal
-  name: Node App
+  name: NodeApp
   type: api
 
 replicaCount: 1
